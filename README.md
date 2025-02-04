@@ -16,7 +16,7 @@ I'm an aspiring Data Scientist currently enhancing my skills through the TKH (Th
 - Databases: SQL
 - Data Visualization: Tableau
 
-## Contact me
+## 📞 Contact me
 - Email: kevinbonilla17@gmail.com
 
  
