@@ -1,6 +1,6 @@
-## Hi there I'm Kevin Bonilla 👋
+## Hi there, I'm Kevin Bonilla 👋
 
-I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. I'm excited to demonstrate my journey, personal projects, and the techniques I’ve explored as I continue to grow on my data science journey. I'd love to connect my teaching background with my new acquired skills in data science.
+I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. I'm excited to demonstrate my journey, personal projects, and the techniques I’ve learnt so far as I continue to grow on my data science journey. I'd love to connect my teaching background with my new acquired skills in data science.
 
 ## ✏️ SKILLS
 - Programming Languages: Python
@@ -15,6 +15,10 @@ I'm an aspiring Data Scientist currently enhancing my skills through the TKH (Th
 ## 🎯 Will learn
 - Databases: SQL
 - Data Visualization: Tableau
+
+## Contact me
+- Email: kevinbonilla17@gmail.com
+
  
   
 
