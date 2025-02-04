@@ -5,7 +5,17 @@ I'm an aspiring Data Scientist currently enhancing my skills through the TKH (Th
 ## ✏️ SKILLS
 - Programming Languages: Python
 - Data Manipulation: Pandas
+- Statistical Analysis: Basic statistical techniques (e.g.: Mean, Median, and Mode)
+
+
+## 🌱 Currently Learning
+- Statistical Analysis: Advanced statistical techniques
 - Data Visualization: Matplotlib, Seaborn
+
+## 🎯 Will learn
+- Databases: SQL
+- Data Visualization: Tableau
+ 
   
 
 <!--
