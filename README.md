@@ -1,11 +1,11 @@
 ## Hi there, I'm Kevin Bonilla 👋
 
-I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. I'm excited to exhibit my extensive projects and techniques I’ve learnt so far, as I continue to grow on my data science journey. I'd love to connect my teaching background with my new acquired skills in data science.
+I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. I'm excited to exhibit my extensive projects and techniques I’ve learned so far, as I continue to grow on my data science journey. I'd love to connect my teaching background with my newly acquired data science skills.
 
-## ✏️ SKILLS
+## ✏️ Skills
 - Programming Languages: Python
 - Data Manipulation: Pandas
-- Statistical Analysis: Basic statistical techniques (e.g., Mean, Median, and Mode)
+- Statistical Analysis: Descriptive statistics (e.g., Mean, Median, and Mode)
 
 
 ## 🌱 Currently Learning
